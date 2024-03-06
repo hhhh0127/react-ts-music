@@ -1,0 +1,10 @@
+# 表示这些文件忽略格式化
+/dist/*
+.local
+.output.js
+/node_modules/**
+
+**/*.svg
+**/*.sh
+
+/public/*
